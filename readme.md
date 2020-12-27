@@ -1,1 +1,1 @@
-My project 
+My first three.js project 
